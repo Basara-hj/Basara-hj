@@ -23,7 +23,7 @@
 * 2번
 - 1번
 - 2번
-- [네이버](https//naver.com)
+- [네이버](https//www.naver.com)
 
 ```
 print("github")
